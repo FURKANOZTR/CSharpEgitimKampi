@@ -65,13 +65,7 @@ Parametre alan, parametre almayan void metotlar ile çalıştım.
 
 ---
 
-## 🌟 Proje 9: Geriye Değer Döndüren Fonksiyonlar 🎗️
-Kullanıcıdan veri alıp işleyen ve geriye sonuç döndüren fonksiyonlar yazdım.  
-Daha karmaşık işlemleri fonksiyonlar aracılığıyla gerçekleştirdim.
-
----
-
-## 🌟 Proje 10: Veritabanı Tabanlı Ürün-Kategori Sistemi 💾
+## 🌟 Proje 9: Veritabanı Tabanlı Ürün-Kategori Sistemi 💾
 `SqlConnection` ve `SqlCommand` sınıflarını kullanarak veritabanı bağlantısı kurdum.  
 SQL sorguları ile verileri çektim, listeledim ve kullanıcıya sundum.
 
